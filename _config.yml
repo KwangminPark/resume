@@ -62,15 +62,13 @@ content:
         # link_text: Sejong University Web
         sub_title: Professor
         caption: March 2021 - Present
-        sub_title: Associate Professor
-        caption: March 2015 - February 2021
-        sub_title: Assistant Professor
-        caption: March 2011 - February 2015
         quote: >
          Having a visionary mind, inventing the future of restaurant business
         description: | # this will include new lines to allow paragraphs
           Dept. of Foodservice Management, College of Hospitality & Tourism
+
           Undegrad Course: Strategic Management; Business Analytics; Management Science; Operations Management
+          
           Grad Course: Research Methodology and others
 
   - title: Education # Title for the section
