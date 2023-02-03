@@ -58,10 +58,10 @@ content:
     content:
       - layout: left
         title: Sejong University
-        link: www.sejong.ac.kr
+        link: sejong.ac.kr
         # link_text: Sejong University Web
         sub_title: Professor
-        caption: March 2021 - Present
+        caption: March 2011 - Present
         quote: >
          Having a visionary mind, inventing the future of restaurant business
         description: | # this will include new lines to allow paragraphs
