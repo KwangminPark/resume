@@ -123,36 +123,13 @@ content:
 
           »	Honor Student from Yonsei University, Seoul, Korea, 2001
 
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Refereed Journal (Including Accepted & In Press)
-        link: https://www.sciencedirect.com/science/article/pii/S0278431922001165?casa_token=2WAwm4Aq3foAAAAA:3MnjjsoaIFGPzkSQnoNspf-X_jqIRRoMX7zp8a3A-PwPdu8R7PbSP3ZgIZWqmANhNAp7VRhLDQ
-        link_text: Park, K., & Jang, S. (2022) Do coffee chains have strategic superiority? An examination of the intra-regional and size strategies of coffee chains. International Journal of Hospitality Management, 105, August, 103254.
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        #description: | # this will include new lines to allow paragraphs
-        #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: A Little More About Me
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+     - Park, K., & Jang, S. (2022) Do coffee chains have strategic superiority? An examination of the intra-regional and size strategies of coffee chains. International Journal of Hospitality Management, 105, August, 103254.[Link](https://www.sciencedirect.com/science/article/pii/S0278431922001165?casa_token=2WAwm4Aq3foAAAAA:3MnjjsoaIFGPzkSQnoNspf-X_jqIRRoMX7zp8a3A-PwPdu8R7PbSP3ZgIZWqmANhNAp7VRhLDQ)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
