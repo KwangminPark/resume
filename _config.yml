@@ -48,7 +48,7 @@ orcid_username: 0000-0002-2749-8932
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kwangmin and I'm a Professor at Sejong University in Seoul, Korea. I'm affiliated in the Dep. of Foodservice MGMT. I'm interested in the Business analytics with big data and my research focus is the strategic management in the restaurant industry.
+  Hi, my name's Kwangmin and I'm a Professor at Sejong University in Seoul, Korea. I'm affiliated in the Dpt. of Foodservice MGMT. I'm interested in the Business analytics with big data and my research focus is the strategic management in the restaurant industry.
 
   I am very excited to interact with you!!
 
@@ -59,7 +59,7 @@ content:
       - layout: left
         title: Sejong University
         link: sejong.ac.kr
-        # link_text: Sejong Univ.
+        link_text: Sejong Univ.
         sub_title: Professor
         caption: March 2011 - Present
         quote: >
@@ -71,7 +71,7 @@ content:
       - layout: left
         title: E-Mart in Shinsegae Group
         link: store.emart.com
-        # link_text: E-Mart
+        link_text: E-Mart Web
         sub_title: Controller & Food Procurer
         caption: January 2003 - August 2005
         quote: >
@@ -123,27 +123,28 @@ content:
 
           »	Honor Student from Yonsei University, Seoul, Korea, 2001
 
-
-
-
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        title: Refereed Journal (Including Accepted & In Press)
+        link: https://www.sciencedirect.com/science/article/pii/S0278431922001165?casa_token=2WAwm4Aq3foAAAAA:3MnjjsoaIFGPzkSQnoNspf-X_jqIRRoMX7zp8a3A-PwPdu8R7PbSP3ZgIZWqmANhNAp7VRhLDQ
+        link_text: Park, K., & Jang, S. (2022) Do coffee chains have strategic superiority? An examination of the intra-regional and size strategies of coffee chains. International Journal of Hospitality Management, 105, August, 103254.
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #description: | # this will include new lines to allow paragraphs
+        #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - layout: top-middle
+        #title: Refereed Journal (Including Accepted & In Press)
+        link: https://www.sciencedirect.com/science/article/pii/S1447677022000651?casa_token=d8aercKEsdIAAAAA:NVmaMjTyAUjrTfV1-aGY_PB8Ipvnwx6X5N5krqdELYYs1SYSK-Zh5uN7IoUbxDtF_JGdLaSUEg
+        link_text: Park, K., & Kong, k. (2022) Certification Paradox: Reverse Response on the Non-Hygiene Restaurant Certification.  Journal of Hospitality and Tourism Management, 51, 268-278.
 
   - title: A Little More About Me
     layout: text
