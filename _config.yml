@@ -49,8 +49,8 @@ orcid_username: 0000-0002-2749-8932
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   In Seoul, the capital city of the Republic of Korea, where Sejong University is situated, I hold the position of Professor. My name is Kwangmin. The Department of Foodservice Management is where I work. My research focuses on the strategic management of firms in the restaurant sector, and business analytics with big data is one of my interest areas.
-
-I'm looking forward to talking to you!
+  
+  I'm looking forward to talking to you!
 
 content:
   - title: Experience # Title for the section
