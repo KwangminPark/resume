@@ -141,10 +141,6 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         #description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  - layout: top-middle
-        #title: Refereed Journal (Including Accepted & In Press)
-        link: https://www.sciencedirect.com/science/article/pii/S1447677022000651?casa_token=d8aercKEsdIAAAAA:NVmaMjTyAUjrTfV1-aGY_PB8Ipvnwx6X5N5krqdELYYs1SYSK-Zh5uN7IoUbxDtF_JGdLaSUEg
-        link_text: Park, K., & Kong, k. (2022) Certification Paradox: Reverse Response on the Non-Hygiene Restaurant Certification.  Journal of Hospitality and Tourism Management, 51, 268-278.
 
   - title: A Little More About Me
     layout: text
