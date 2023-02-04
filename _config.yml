@@ -123,6 +123,18 @@ content:
 
           »	Honor Student from Yonsei University, Seoul, Korea, 2001
 
+  - title: Honors & Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     Minister's Commendation
+     - Commendation from Minister of Agriculture, Food and Rural Affairs, Korea, December 31st, 2021.
+     Research Award
+     - Award for Distinguished Research Professor, Sejong University, Seoul, Korea, August 25th, 2016.
+     Best Paper Award
+     - The 9th APacCHRIE Conference, Hong Kong, China, June 5th, 2011.
+     - The 15th Asia Pacific Tourism Association (APTA) Conference, In-cheon, Korea (ROK), July 12th, 2009.
+     - The 8th Asia Pacific Forum for Graduate Students Research, Seoul, Korea (ROK), July 9th, 2009.
+
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -167,7 +179,6 @@ content:
      - Park, K., & Jang, S. Are International and Domestic Restaurant Firms Different? Growth Rate Pattern Across Business Sizes. Proceedings of The 14th Asia Pacific Tourism Association Conference, Bangkok, Thailand, July, 2008.
      - Park, K., & Jang, S. Financial Leverage and Firm Investment: The Moderating Effect of Tobin’s Q in the Restaurant Industry. Proceedings of The 13th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Orlando, Florida, January, 2008.
      - Park, K., & Jang, S. Ownership Structure and Firm Performance: Empirical Evidence in Restaurant Industry. Proceedings of The 12th Annual Graduate Education and Graduate Student Research Conference in Hospitality and Tourism, Houston, Texas, January, 2007.
-     - 
 
 # Footer
 footer_show_references: true
