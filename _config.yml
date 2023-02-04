@@ -84,22 +84,47 @@ content:
             Analyzing retail data
 
             Negotiating with supplers
-            
+
             Developting new products
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Purdue University, West Lafayette, IN
+        caption: August 2007 - August 2010
+        sub_title: Ph.D. Hospitality & Tourism MGMT
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Top-ranked programs in hospitality and tourism management all over the world
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          »	Dissertation: Corporate Diversification Strategy and Firm Performance in the U.S. Restaurant Industry
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          »	Major Advisor: Dr. SooCheong (Shawn) Jang
+      - layout: left
+        title: Purdue University, West Lafayette, IN
+        caption: August 2005 - August 2007
+        sub_title: MS Hospitality & Tourism MGMT
+        quote: >
+          Top-ranked programs in hospitality and tourism management all over the world
+        description: | # this will include new lines to allow paragraphs
+          »	Thesis: Financial Leverage and Firm Investment in U.S. Restaurant Firms
+
+          »	Major Advisor: Dr. SooCheong (Shawn) Jang
+      - layout: left
+        title: Yonsei University, Seoul, Korea
+        caption: March 1996 - February 2003
+        sub_title: BS Food & Nutrition / Interior Architecture & Built Environment (Double Major) and Business (Minor)
+        quote: >
+          Pursuing interdisciplinary convergence!!
+        description: | # this will include new lines to allow paragraphs
+          »	Scholarship from	the Un-bong Foundation, Seoul, Korea, 2002
+
+          »	High Honor Student from Yonsei University, Seoul, Korea, 2002
+          
+          »	Honor Student from Yonsei University, Seoul, Korea, 2001
+
+
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
