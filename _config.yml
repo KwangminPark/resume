@@ -67,6 +67,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Teaching Undergrad courses: Strategic MGMT; Business Analytics; MGMT Science; Operations MGMT
             Teaching Grad courses: Research Methodology and others
+      - layout: left
         title: E-Mat in Shinsegae Group
         link: store.emart.com
         # link_text: E-Mart
