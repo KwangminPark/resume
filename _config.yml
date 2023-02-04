@@ -65,9 +65,9 @@ content:
         quote: >
           Inventing the future of restaurants via Data!!
         description: | # this will include new lines to allow paragraphs
-            Teaching Undergrad courses: Strategic MGMT; Business Analytics; MGMT Science; Operations MGMT
+            »	Teaching Undergrad courses: Strategic MGMT; Business Analytics; MGMT Science; Operations MGMT
 
-            Teaching Grad courses: Research Methodology and others
+            »	Teaching Grad courses: Research Methodology and others
       - layout: left
         title: E-Mart in Shinsegae Group
         link: store.emart.com
@@ -77,15 +77,15 @@ content:
         quote: >
           HMR (Home Meal Replacement) is the RTE (Ready-to-eat) only before my touch
         description: | # this will include new lines to allow paragraphs
-            Controlling the food matiarials from order to distribution
+            »	Controlling the food matiarials from order to distribution
 
-            Managing the price and cost structure
+            »	Managing the price and cost structure
 
-            Analyzing retail data
+            »	Analyzing retail data
 
-            Negotiating with supplers
+            »	Negotiating with supplers
 
-            Developting new products
+            »	Developting new products
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -120,7 +120,7 @@ content:
           »	Scholarship from	the Un-bong Foundation, Seoul, Korea, 2002
 
           »	High Honor Student from Yonsei University, Seoul, Korea, 2002
-          
+
           »	Honor Student from Yonsei University, Seoul, Korea, 2001
 
 
