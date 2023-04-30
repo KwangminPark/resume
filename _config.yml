@@ -141,9 +141,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Under-construction
-        # link: github.com/sproogen
-        # link_text: Project Website
+        title: 통알못을 위한 기초통계 1권
+        link: https://who4u78.github.io/book1/
+        link_text: Book Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
@@ -151,10 +151,10 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        # description: | # this will include new lines to allow paragraphs
-        #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        quote: >
+          통계 비전공자의 통알못을 위한 기초통계
+        description: | # this will include new lines to allow paragraphs
+          세상에서 가장 쉬운 통계책과 강의를 시작하고 싶었다. 
 
   - title: Professional Membership & Service
     layout: text
