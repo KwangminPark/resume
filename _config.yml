@@ -153,8 +153,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           통계 비전공자의 통알못을 위한 기초통계
-        description: | # this will include new lines to allow paragraphs
-          세상에서 가장 쉬운 통계책과 강의를 시작하고 싶었다. 
+        # description: | # this will include new lines to allow paragraphs
+        #   세상에서 가장 쉬운 통계책과 강의를 시작하고 싶었다. 
 
   - title: Professional Membership & Service
     layout: text
