@@ -184,7 +184,7 @@ content:
         #  통계 비전공자의 통알못을 위한 기초통계
         # description: | # this will include new lines to allow paragraphs
         #   세상에서 가장 쉬운 통계책과 강의를 시작하고 싶었다. 
-        - layout: top-middle
+      - layout: top-middle
         title: 전략경영 (Strategic Management)
         link: https://kwangminpark.github.io/strategicMgmt/
         link_text: Book Website
