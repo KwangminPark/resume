@@ -198,7 +198,22 @@ content:
         quote: >
         #  AI를 활용한 최초의 전략경영 학습서
         # description: | # this will include new lines to allow paragraphs
-        #  Strategic Management with AI 
+        #  Strategic Management with AI
+      - layout: top-middle
+        title: 비즈니스 애널리틱스 (Business Analytics)
+        link: https://kwangminpark.github.io/businessAnalytics/
+        link_text: Book Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        #  AI를 활용한 데이터 분석
+        # description: | # this will include new lines to allow paragraphs
+        #  Business Analytics with AI 
 
   - title: Professional Membership & Service
     layout: text
